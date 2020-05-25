@@ -1,0 +1,18 @@
+C:\Users\ABC\Desktop\LibraryProject\BookRentApplication\Library.DataAccess\bin\Debug\Library.DataAccess.dll.config
+C:\Users\ABC\Desktop\LibraryProject\BookRentApplication\Library.DataAccess\bin\Debug\Library.DataAccess.dll
+C:\Users\ABC\Desktop\LibraryProject\BookRentApplication\Library.DataAccess\bin\Debug\Library.DataAccess.pdb
+C:\Users\ABC\Desktop\LibraryProject\BookRentApplication\Library.DataAccess\bin\Debug\Library.Entities.dll
+C:\Users\ABC\Desktop\LibraryProject\BookRentApplication\Library.DataAccess\bin\Debug\Library.Entities.pdb
+C:\Users\ABC\Desktop\LibraryProject\BookRentApplication\Library.DataAccess\obj\Debug\Library.DataAccess.csprojAssemblyReference.cache
+C:\Users\ABC\Desktop\LibraryProject\BookRentApplication\Library.DataAccess\obj\Debug\Library.DataAccess.csproj.CopyComplete
+C:\Users\ABC\Desktop\LibraryProject\BookRentApplication\Library.DataAccess\obj\Debug\Library.DataAccess.dll
+C:\Users\ABC\Desktop\LibraryProject\BookRentApplication\Library.DataAccess\obj\Debug\Library.DataAccess.pdb
+C:\Users\Kubra SEYREK\Desktop\LibraryProject\BookRentApplication\Library.DataAccess\bin\Debug\Library.DataAccess.dll.config
+C:\Users\Kubra SEYREK\Desktop\LibraryProject\BookRentApplication\Library.DataAccess\bin\Debug\Library.DataAccess.dll
+C:\Users\Kubra SEYREK\Desktop\LibraryProject\BookRentApplication\Library.DataAccess\bin\Debug\Library.DataAccess.pdb
+C:\Users\Kubra SEYREK\Desktop\LibraryProject\BookRentApplication\Library.DataAccess\bin\Debug\Library.Entities.dll
+C:\Users\Kubra SEYREK\Desktop\LibraryProject\BookRentApplication\Library.DataAccess\bin\Debug\Library.Entities.pdb
+C:\Users\Kubra SEYREK\Desktop\LibraryProject\BookRentApplication\Library.DataAccess\obj\Debug\Library.DataAccess.csprojAssemblyReference.cache
+C:\Users\Kubra SEYREK\Desktop\LibraryProject\BookRentApplication\Library.DataAccess\obj\Debug\Library.DataAccess.csproj.CopyComplete
+C:\Users\Kubra SEYREK\Desktop\LibraryProject\BookRentApplication\Library.DataAccess\obj\Debug\Library.DataAccess.dll
+C:\Users\Kubra SEYREK\Desktop\LibraryProject\BookRentApplication\Library.DataAccess\obj\Debug\Library.DataAccess.pdb

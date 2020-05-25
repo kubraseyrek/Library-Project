@@ -1,0 +1,46 @@
+C:\Users\ABC\Desktop\LibraryProject\BookRentApplication\BookRentApplication\bin\Debug\BookRentApplication.exe.config
+C:\Users\ABC\Desktop\LibraryProject\BookRentApplication\BookRentApplication\bin\Debug\BookRentApplication.exe
+C:\Users\ABC\Desktop\LibraryProject\BookRentApplication\BookRentApplication\bin\Debug\BookRentApplication.pdb
+C:\Users\ABC\Desktop\LibraryProject\BookRentApplication\BookRentApplication\bin\Debug\Lbirary.BusinessLogic.dll
+C:\Users\ABC\Desktop\LibraryProject\BookRentApplication\BookRentApplication\bin\Debug\Library.DTO.dll
+C:\Users\ABC\Desktop\LibraryProject\BookRentApplication\BookRentApplication\bin\Debug\Library.Entities.dll
+C:\Users\ABC\Desktop\LibraryProject\BookRentApplication\BookRentApplication\bin\Debug\Library.DataAccess.dll
+C:\Users\ABC\Desktop\LibraryProject\BookRentApplication\BookRentApplication\bin\Debug\Lbirary.BusinessLogic.pdb
+C:\Users\ABC\Desktop\LibraryProject\BookRentApplication\BookRentApplication\bin\Debug\Library.DTO.pdb
+C:\Users\ABC\Desktop\LibraryProject\BookRentApplication\BookRentApplication\bin\Debug\Library.Entities.pdb
+C:\Users\ABC\Desktop\LibraryProject\BookRentApplication\BookRentApplication\bin\Debug\Library.DataAccess.pdb
+C:\Users\ABC\Desktop\LibraryProject\BookRentApplication\BookRentApplication\bin\Debug\Library.DataAccess.dll.config
+C:\Users\ABC\Desktop\LibraryProject\BookRentApplication\BookRentApplication\obj\Debug\BookRentApplication.csprojAssemblyReference.cache
+C:\Users\ABC\Desktop\LibraryProject\BookRentApplication\BookRentApplication\obj\Debug\BookRentApplication.frmLogin.resources
+C:\Users\ABC\Desktop\LibraryProject\BookRentApplication\BookRentApplication\obj\Debug\BookRentApplication.frmRegister.resources
+C:\Users\ABC\Desktop\LibraryProject\BookRentApplication\BookRentApplication\obj\Debug\BookRentApplication.Properties.Resources.resources
+C:\Users\ABC\Desktop\LibraryProject\BookRentApplication\BookRentApplication\obj\Debug\BookRentApplication.csproj.GenerateResource.cache
+C:\Users\ABC\Desktop\LibraryProject\BookRentApplication\BookRentApplication\obj\Debug\BookRentApplication.csproj.CopyComplete
+C:\Users\ABC\Desktop\LibraryProject\BookRentApplication\BookRentApplication\obj\Debug\BookRentApplication.exe
+C:\Users\ABC\Desktop\LibraryProject\BookRentApplication\BookRentApplication\obj\Debug\BookRentApplication.pdb
+C:\Users\ABC\Desktop\LibraryProject\BookRentApplication\BookRentApplication\obj\Debug\BookRentApplication.frmAdmin.resources
+C:\Users\ABC\Desktop\LibraryProject\BookRentApplication\BookRentApplication\obj\Debug\BookRentApplication.frmMember.resources
+C:\Users\ABC\Desktop\LibraryProject\BookRentApplication\BookRentApplication\obj\Debug\BookRentApplication.frmKitapEkle.resources
+C:\Users\Kubra SEYREK\Desktop\LibraryProject\BookRentApplication\BookRentApplication\bin\Debug\BookRentApplication.exe.config
+C:\Users\Kubra SEYREK\Desktop\LibraryProject\BookRentApplication\BookRentApplication\bin\Debug\BookRentApplication.exe
+C:\Users\Kubra SEYREK\Desktop\LibraryProject\BookRentApplication\BookRentApplication\bin\Debug\BookRentApplication.pdb
+C:\Users\Kubra SEYREK\Desktop\LibraryProject\BookRentApplication\BookRentApplication\bin\Debug\Lbirary.BusinessLogic.dll
+C:\Users\Kubra SEYREK\Desktop\LibraryProject\BookRentApplication\BookRentApplication\bin\Debug\Library.DTO.dll
+C:\Users\Kubra SEYREK\Desktop\LibraryProject\BookRentApplication\BookRentApplication\bin\Debug\Library.Entities.dll
+C:\Users\Kubra SEYREK\Desktop\LibraryProject\BookRentApplication\BookRentApplication\bin\Debug\Library.DataAccess.dll
+C:\Users\Kubra SEYREK\Desktop\LibraryProject\BookRentApplication\BookRentApplication\bin\Debug\Lbirary.BusinessLogic.pdb
+C:\Users\Kubra SEYREK\Desktop\LibraryProject\BookRentApplication\BookRentApplication\bin\Debug\Library.DTO.pdb
+C:\Users\Kubra SEYREK\Desktop\LibraryProject\BookRentApplication\BookRentApplication\bin\Debug\Library.Entities.pdb
+C:\Users\Kubra SEYREK\Desktop\LibraryProject\BookRentApplication\BookRentApplication\bin\Debug\Library.DataAccess.pdb
+C:\Users\Kubra SEYREK\Desktop\LibraryProject\BookRentApplication\BookRentApplication\bin\Debug\Library.DataAccess.dll.config
+C:\Users\Kubra SEYREK\Desktop\LibraryProject\BookRentApplication\BookRentApplication\obj\Debug\BookRentApplication.csprojAssemblyReference.cache
+C:\Users\Kubra SEYREK\Desktop\LibraryProject\BookRentApplication\BookRentApplication\obj\Debug\BookRentApplication.frmAdmin.resources
+C:\Users\Kubra SEYREK\Desktop\LibraryProject\BookRentApplication\BookRentApplication\obj\Debug\BookRentApplication.frmKitapEkle.resources
+C:\Users\Kubra SEYREK\Desktop\LibraryProject\BookRentApplication\BookRentApplication\obj\Debug\BookRentApplication.frmLogin.resources
+C:\Users\Kubra SEYREK\Desktop\LibraryProject\BookRentApplication\BookRentApplication\obj\Debug\BookRentApplication.frmMember.resources
+C:\Users\Kubra SEYREK\Desktop\LibraryProject\BookRentApplication\BookRentApplication\obj\Debug\BookRentApplication.frmRegister.resources
+C:\Users\Kubra SEYREK\Desktop\LibraryProject\BookRentApplication\BookRentApplication\obj\Debug\BookRentApplication.Properties.Resources.resources
+C:\Users\Kubra SEYREK\Desktop\LibraryProject\BookRentApplication\BookRentApplication\obj\Debug\BookRentApplication.csproj.GenerateResource.cache
+C:\Users\Kubra SEYREK\Desktop\LibraryProject\BookRentApplication\BookRentApplication\obj\Debug\BookRentApplication.csproj.CopyComplete
+C:\Users\Kubra SEYREK\Desktop\LibraryProject\BookRentApplication\BookRentApplication\obj\Debug\BookRentApplication.exe
+C:\Users\Kubra SEYREK\Desktop\LibraryProject\BookRentApplication\BookRentApplication\obj\Debug\BookRentApplication.pdb

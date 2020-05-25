@@ -1,0 +1,10 @@
+C:\Users\ABC\Desktop\LibraryProject\BookRentApplication\Library.DTO\bin\Debug\Library.DTO.dll
+C:\Users\ABC\Desktop\LibraryProject\BookRentApplication\Library.DTO\bin\Debug\Library.DTO.pdb
+C:\Users\ABC\Desktop\LibraryProject\BookRentApplication\Library.DTO\obj\Debug\Library.DTO.csprojAssemblyReference.cache
+C:\Users\ABC\Desktop\LibraryProject\BookRentApplication\Library.DTO\obj\Debug\Library.DTO.dll
+C:\Users\ABC\Desktop\LibraryProject\BookRentApplication\Library.DTO\obj\Debug\Library.DTO.pdb
+C:\Users\Kubra SEYREK\Desktop\LibraryProject\BookRentApplication\Library.DTO\bin\Debug\Library.DTO.dll
+C:\Users\Kubra SEYREK\Desktop\LibraryProject\BookRentApplication\Library.DTO\bin\Debug\Library.DTO.pdb
+C:\Users\Kubra SEYREK\Desktop\LibraryProject\BookRentApplication\Library.DTO\obj\Debug\Library.DTO.csprojAssemblyReference.cache
+C:\Users\Kubra SEYREK\Desktop\LibraryProject\BookRentApplication\Library.DTO\obj\Debug\Library.DTO.dll
+C:\Users\Kubra SEYREK\Desktop\LibraryProject\BookRentApplication\Library.DTO\obj\Debug\Library.DTO.pdb

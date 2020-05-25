@@ -1,0 +1,10 @@
+C:\Users\ABC\Desktop\LibraryProject\BookRentApplication\Library.Entities\bin\Debug\Library.Entities.dll
+C:\Users\ABC\Desktop\LibraryProject\BookRentApplication\Library.Entities\bin\Debug\Library.Entities.pdb
+C:\Users\ABC\Desktop\LibraryProject\BookRentApplication\Library.Entities\obj\Debug\Library.Entities.csprojAssemblyReference.cache
+C:\Users\ABC\Desktop\LibraryProject\BookRentApplication\Library.Entities\obj\Debug\Library.Entities.dll
+C:\Users\ABC\Desktop\LibraryProject\BookRentApplication\Library.Entities\obj\Debug\Library.Entities.pdb
+C:\Users\Kubra SEYREK\Desktop\LibraryProject\BookRentApplication\Library.Entities\bin\Debug\Library.Entities.dll
+C:\Users\Kubra SEYREK\Desktop\LibraryProject\BookRentApplication\Library.Entities\bin\Debug\Library.Entities.pdb
+C:\Users\Kubra SEYREK\Desktop\LibraryProject\BookRentApplication\Library.Entities\obj\Debug\Library.Entities.csprojAssemblyReference.cache
+C:\Users\Kubra SEYREK\Desktop\LibraryProject\BookRentApplication\Library.Entities\obj\Debug\Library.Entities.dll
+C:\Users\Kubra SEYREK\Desktop\LibraryProject\BookRentApplication\Library.Entities\obj\Debug\Library.Entities.pdb

@@ -1,0 +1,26 @@
+C:\Users\ABC\Desktop\LibraryProject\BookRentApplication\Lbirary.BusinessLogic\bin\Debug\Lbirary.BusinessLogic.dll
+C:\Users\ABC\Desktop\LibraryProject\BookRentApplication\Lbirary.BusinessLogic\bin\Debug\Lbirary.BusinessLogic.pdb
+C:\Users\ABC\Desktop\LibraryProject\BookRentApplication\Lbirary.BusinessLogic\bin\Debug\Library.DataAccess.dll
+C:\Users\ABC\Desktop\LibraryProject\BookRentApplication\Lbirary.BusinessLogic\bin\Debug\Library.DTO.dll
+C:\Users\ABC\Desktop\LibraryProject\BookRentApplication\Lbirary.BusinessLogic\bin\Debug\Library.Entities.dll
+C:\Users\ABC\Desktop\LibraryProject\BookRentApplication\Lbirary.BusinessLogic\bin\Debug\Library.DataAccess.pdb
+C:\Users\ABC\Desktop\LibraryProject\BookRentApplication\Lbirary.BusinessLogic\bin\Debug\Library.DataAccess.dll.config
+C:\Users\ABC\Desktop\LibraryProject\BookRentApplication\Lbirary.BusinessLogic\bin\Debug\Library.DTO.pdb
+C:\Users\ABC\Desktop\LibraryProject\BookRentApplication\Lbirary.BusinessLogic\bin\Debug\Library.Entities.pdb
+C:\Users\ABC\Desktop\LibraryProject\BookRentApplication\Lbirary.BusinessLogic\obj\Debug\Library.BusinessLogic.csprojAssemblyReference.cache
+C:\Users\ABC\Desktop\LibraryProject\BookRentApplication\Lbirary.BusinessLogic\obj\Debug\Library.BusinessLogic.csproj.CopyComplete
+C:\Users\ABC\Desktop\LibraryProject\BookRentApplication\Lbirary.BusinessLogic\obj\Debug\Lbirary.BusinessLogic.dll
+C:\Users\ABC\Desktop\LibraryProject\BookRentApplication\Lbirary.BusinessLogic\obj\Debug\Lbirary.BusinessLogic.pdb
+C:\Users\Kubra SEYREK\Desktop\LibraryProject\BookRentApplication\Lbirary.BusinessLogic\bin\Debug\Lbirary.BusinessLogic.dll
+C:\Users\Kubra SEYREK\Desktop\LibraryProject\BookRentApplication\Lbirary.BusinessLogic\bin\Debug\Lbirary.BusinessLogic.pdb
+C:\Users\Kubra SEYREK\Desktop\LibraryProject\BookRentApplication\Lbirary.BusinessLogic\bin\Debug\Library.DataAccess.dll
+C:\Users\Kubra SEYREK\Desktop\LibraryProject\BookRentApplication\Lbirary.BusinessLogic\bin\Debug\Library.DTO.dll
+C:\Users\Kubra SEYREK\Desktop\LibraryProject\BookRentApplication\Lbirary.BusinessLogic\bin\Debug\Library.Entities.dll
+C:\Users\Kubra SEYREK\Desktop\LibraryProject\BookRentApplication\Lbirary.BusinessLogic\bin\Debug\Library.DataAccess.pdb
+C:\Users\Kubra SEYREK\Desktop\LibraryProject\BookRentApplication\Lbirary.BusinessLogic\bin\Debug\Library.DataAccess.dll.config
+C:\Users\Kubra SEYREK\Desktop\LibraryProject\BookRentApplication\Lbirary.BusinessLogic\bin\Debug\Library.DTO.pdb
+C:\Users\Kubra SEYREK\Desktop\LibraryProject\BookRentApplication\Lbirary.BusinessLogic\bin\Debug\Library.Entities.pdb
+C:\Users\Kubra SEYREK\Desktop\LibraryProject\BookRentApplication\Lbirary.BusinessLogic\obj\Debug\Library.BusinessLogic.csprojAssemblyReference.cache
+C:\Users\Kubra SEYREK\Desktop\LibraryProject\BookRentApplication\Lbirary.BusinessLogic\obj\Debug\Library.BusinessLogic.csproj.CopyComplete
+C:\Users\Kubra SEYREK\Desktop\LibraryProject\BookRentApplication\Lbirary.BusinessLogic\obj\Debug\Lbirary.BusinessLogic.dll
+C:\Users\Kubra SEYREK\Desktop\LibraryProject\BookRentApplication\Lbirary.BusinessLogic\obj\Debug\Lbirary.BusinessLogic.pdb
